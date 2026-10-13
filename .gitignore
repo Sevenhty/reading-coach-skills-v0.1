@@ -1,0 +1,7 @@
+# 系统杂项
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# 说明：dist/ 与 skills/ 是 build.py 的产物，但**要提交**——
+# 非技术用户需要直接下载 reading-coach.zip，豆包需要从 skills/ 读取 SKILL.md。

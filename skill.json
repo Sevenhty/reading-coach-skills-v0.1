@@ -1,0 +1,24 @@
+{
+  "name": "reading-coach",
+  "displayName": "读书精读教练",
+  "version": "0.1.0",
+  "description": "读书精读教练。当用户想精读一本书、验证书中某个说法、或想深入理解某个章节时使用。触发词包括\"帮我读这本书\"\"精读这一章\"\"听说这本书说了XX\"\"帮我验证一下\"\"拆书\"\"读书笔记\"等。",
+  "keywords": [
+    "精读",
+    "读书笔记",
+    "拆书",
+    "验证书中说法",
+    "读书教练",
+    "reading"
+  ],
+  "author": "Sevenhty",
+  "license": "MIT",
+  "compatibility": [
+    "claude-code",
+    "cursor",
+    "vscode-copilot",
+    "codex-cli",
+    "gemini-cli",
+    "doubao-agent"
+  ]
+}
